@@ -31,19 +31,19 @@ Users should be able to:
 
 #### Dekstop View
 
-![project screenshot](./assets/images/desktop-view.png)
+![project screenshot](/assets/images/desktop-view.png)
 
 #### Tablet View
 
-![project screenshot](./assets/images/tablet-view.png)
+![project screenshot](/assets/images/tablet-view.png)
 
 #### Mobile View
 
-![project screenshot](./assets/images/mobile-view.png)
+![project screenshot](/assets/images/mobile-view.png)
 
 ### Demo
 
-![project demo](./assets/images/demo.gif)
+![project demo](/assets/images/demo.gif)
 
 ## Deployment
 
