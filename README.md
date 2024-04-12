@@ -6,6 +6,8 @@ This is a solution to the [GitHub user search app on Frontend Mentor](https://ww
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Demo](#demo)
 - [Deployment](#deployment)
   - [Links](#links)
 - [My process](#my-process)
@@ -24,6 +26,24 @@ Users should be able to:
 - Switch between light and dark themes
 - View the optimal layout for the app depending on their device's screen size
 - See hover states for all interactive elements on the page
+
+### Screenshot
+
+#### Dekstop View
+
+![project screenshot](./assets/images/desktop-view.png)
+
+#### Tablet View
+
+![project screenshot](./assets/images/tablet-view.png)
+
+#### Mobile View
+
+![project screenshot](./assets/images/mobile-view.png)
+
+### Demo
+
+![project demo](./assets/images/demo.gif)
 
 ## Deployment
 
