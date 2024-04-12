@@ -31,7 +31,7 @@ Users should be able to:
 
 #### Dekstop View
 
-![project screenshot](/src/assets/images/desktop-view.png)
+![project screenshot](/src/assets/images/dekstop-view.png)
 
 #### Tablet View
 
